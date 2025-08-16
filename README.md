@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakarsh</h1>
-<h3 align="center">Hey I am Aakarsh Raj I am a programmer who codes in python and give source codes And I am in just 12th class... And I am also a instagram influencer with 2.8k+ followers on instagram at @im.aakarsh You can know more about me on my Instagram so do follow there Optimism is an occupational hazard of programming: feedback is the treatment..... I Always thought that I am a good Coder but suddenly a code came in my life and played a code with me but I have understand because I was playing code with that coder(s)..........</h3>
+<h3 align="center">Hey, I’m Aakarsh Raj. I’m a passionate programmer who codes mainly in Python and shares source codes. Currently, I’m a 1st year college student and learning game development with a focus on C++ and Unity. I believe that “optimism is an occupational hazard of programming; feedback is the treatment.” I once thought I was a good coder, but then a code came into my life and challenged me. That experience taught me that coding is not just about solving problems—it’s about learning, adapting, and growing as a programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithaakarsh&label=Profile%20views&color=0e75b6&style=flat" alt="codewithaakarsh" /> </p>
 
