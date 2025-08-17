@@ -1,3 +1,4 @@
+![MasterHead](https://static.vecteezy.com/system/resources/previews/002/220/354/large_2x/game-trendy-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Aakarsh</h1>
 <h3 align="center">Hey, I’m Aakarsh Raj. I’m a passionate programmer who codes mainly in Python and shares source codes. Currently, I’m a 1st year college student and learning game development with a focus on C++ and Unity. I believe that “optimism is an occupational hazard of programming; feedback is the treatment.” I once thought I was a good coder, but then a code came into my life and challenged me. That experience taught me that coding is not just about solving problems—it’s about learning, adapting, and growing as a programmer.</h3>
 
