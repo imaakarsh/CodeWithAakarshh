@@ -5,7 +5,6 @@
 Email Me 👉 ✉️ **aakarh027@outlook.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** GameDevelopment
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aakarh027@outlook.com
 - 😄 **Pronouns:** Aakarsh
