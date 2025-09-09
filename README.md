@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **aakarh027@outlook.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** GameDevelopment
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aakarh027@outlook.com
-- 😄 **Pronouns:** Aakarsh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
  <!-- Snake Game Repo View -->
